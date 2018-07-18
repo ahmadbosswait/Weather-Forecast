@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="my_text">my name is ahmad</string>
+    <string name="title_activity_nav">NavActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="app_feature_login">Log-in</string>
+    <string name="app_feature_latest_posts">Today</string>
+    <string name="app_feature_user_profile">User</string>
+    <string name="app_feature_fashion">Open Map Weather</string>
+    <string name="app_feature_music_player">Contact Us</string>
+    <string name="app_feature_video_player">About Us</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
