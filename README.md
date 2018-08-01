@@ -1,6 +1,6 @@
 # Android Application 
 
-I recently started to teach my self android programming development. Although I had experience in developing this type of apps, working with Android studio is something else and absolutely worth to explore it. 
+I recently started to teach my self android programming development. Although I had experience in developing this type of apps, working with Android studio is something else and absolutely worth to explore. 
 
 In this app I use basic functions such as connecting different activities, running API's and web view page in Android OP. I also experinence material design in this envirnment which quite challenging and takes lots of time to function. i use various libraries you can find them in Gradle.build.
 
